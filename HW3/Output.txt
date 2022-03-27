@@ -1,3 +1,0 @@
-The data number: 1 
-The maximum rainfall per 5 min.: 9.8 mm 
-The data and time: 07/04/20 19:15:00 
